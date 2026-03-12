@@ -66,9 +66,5 @@ I am actively learning, building projects, and expanding my skills in both front
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=namansanotiya&label=Profile+Views&color=FF0000&style=flat" alt="profile views" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&animation=fadeIn" />
 </div>
