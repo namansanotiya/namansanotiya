@@ -59,7 +59,7 @@ I am actively learning, building projects, and expanding my skills in both front
 
 [![GitHub](https://img.shields.io/badge/GitHub-namansanotiya-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namansanotiya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sanotiya-4752ab330/)
-[![Email](https://img.shields.io/badge/Email-Contact-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namansanotiya18@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanotiyanaman18@gmail.com)
 
 </div>
 
