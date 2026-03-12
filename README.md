@@ -1,8 +1,6 @@
 
 # 👋 Hi, I'm Naman Sanotiya
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🚀;Python+%26+JavaScript+Enthusiast+🐍;Always+Learning%2C+Always+Building+💡" alt="Typing SVG" />
-
 ---
 
 ### 🙋‍♂️ About Me
