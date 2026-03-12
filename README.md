@@ -8,10 +8,10 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=999999&color=FF0000&center=true&vCenter=true&width=300&lines=🙋‍♂️+About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=999999&color=FF0000&center=true&vCenter=true&width=300&lines=About+Me" alt="About Me" />
 </div>
 
 I am a passionate developer with a strong interest in building real-world web applications.
@@ -20,12 +20,10 @@ I enjoy combining clean UI design with powerful backend logic to create useful a
 
 I am actively learning, building projects, and expanding my skills in both frontend and backend development.
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=999999&color=FF0000&center=true&vCenter=true&width=300&lines=🛠️+Tech+Stack" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=999999&color=FF0000&center=true&vCenter=true&width=300&lines=Tech+Stack" alt="Tech Stack" />
 </div>
 
 **Languages & Frameworks**
@@ -51,7 +49,7 @@ I am actively learning, building projects, and expanding my skills in both front
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=999999&color=FF0000&center=true&vCenter=true&width=350&lines=🌐+Connect+with+Me" alt="Connect" />
