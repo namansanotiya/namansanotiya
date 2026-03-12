@@ -1,5 +1,7 @@
 
-# 👋 Hi, I'm Naman Sanotiya
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=header&text=Hi,%20I'm%20Naman%20Sanotiya!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</div>
 ---
 
 <div align="center">
