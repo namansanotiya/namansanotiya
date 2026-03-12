@@ -14,8 +14,6 @@
 
 ### 🙋‍♂️ About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=namansanotiya&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff" width="40%" />
-
 I am a passionate developer with a strong interest in building real-world web applications.
 
 I enjoy combining clean UI design with powerful backend logic to create useful and efficient solutions.
