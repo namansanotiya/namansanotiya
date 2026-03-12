@@ -3,16 +3,16 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Keep+Building+%7C+Keep+Growing" alt="Typing SVG" />/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Keep+Building+%7C+Keep+Growing" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-### 🙋‍♂️ About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=999999&color=FF0000&center=true&vCenter=true&width=300&lines=🙋‍♂️+About+Me" alt="About Me" />
+</div>
 
 I am a passionate developer with a strong interest in building real-world web applications.
 
@@ -20,13 +20,13 @@ I enjoy combining clean UI design with powerful backend logic to create useful a
 
 I am actively learning, building projects, and expanding my skills in both frontend and backend development.
 
-<br/><br/><br/><br/>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=999999&color=FF0000&center=true&vCenter=true&width=300&lines=🛠️+Tech+Stack" alt="Tech Stack" />
+</div>
 
 **Languages & Frameworks**
 
@@ -53,9 +53,9 @@ I am actively learning, building projects, and expanding my skills in both front
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-### 🌐 Connect with Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=999999&color=FF0000&center=true&vCenter=true&width=350&lines=🌐+Connect+with+Me" alt="Connect" />
+</div>
 
 <div align="center">
 
